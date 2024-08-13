@@ -1,12 +1,12 @@
 ## Hi there im Joom or as well as Jo 👋
 
-🔭 I’m currently working on searching my self in the middle of the programing.
-🌱 I’m currently learning how to be a fitable Front-end in this modern rea
+🔭 I’m currently working on searching my self in the middle of the programing.<br>
+🌱 I’m currently learning how to be a fitable Front-end in this modern rea<br>
 
-⚡ Fun fact bout me:
-🐼I am enjoying drawing as mush as i am enjoy eating🐼
-🐼I prefer night then a day and cold then a hot weather🐼
-🐼Sometime i prefer book then a monitor🐼
+⚡ Fun fact bout me:<br>
+🐼I am enjoying drawing as mush as i am enjoy eating🐼<br>
+🐼I prefer night then a day and cold then a hot weather🐼<br>
+🐼Sometime i prefer book then a monitor🐼<br>
 
 <!--
 **JOOMUUSUU/JOOMUUSUU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
